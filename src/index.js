@@ -7,7 +7,6 @@ import Mongo from "mongodb";
 import Router from "react-router-dom";
 
 import App from "./componants/app";
-import Welcome from "./componants/welcome";
 
 ReactDom.render(
     <App />,
